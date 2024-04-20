@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+git config credential.helper store
+git config --global user.email "dalvin.onyango@students.uonbi.ac.ke"
+git config --global user.name "dalvin_onyango"
